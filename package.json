@@ -1,0 +1,70 @@
+{
+  "name": "ehr-2.0",
+  "version": "2.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~18.0.4",
+    "@angular/common": "~18.0.4",
+    "@angular/compiler": "~18.0.4",
+    "@angular/core": "~18.0.4",
+    "@angular/forms": "~18.0.4",
+    "@angular/platform-browser": "~18.0.4",
+    "@angular/platform-browser-dynamic": "~18.0.4",
+    "@angular/router": "~18.0.4",
+    "assert": "^2.1.0",
+    "bootstrap": "^5.3.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "ipfs-mini": "^1.1.5",
+    "ngx-image-compress": "^15.1.6",
+    "os-browserify": "^0.3.0",
+    "rxjs": "~7.8.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "truffle-contract": "^4.0.2",
+    "tslib": "^2.6.3",
+    "update": "^0.7.4",
+    "web3": "4.10.0",
+    "zone.js": "~0.14.7"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.0.5",
+    "@angular/cli": "^18.0.5",
+    "@angular/compiler-cli": "~18.0.4",
+    "@types/jasmine": "~5.1.4",
+    "@types/node": "^20.14.8",
+    "jasmine-core": "~5.1.2",
+    "karma": "~6.4.3",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.1",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "typescript": "~5.4.5"
+  },
+  "description": "A Healthcare Management using Federated Learning with Blockchain for Decentralized Data-Sharing",
+  "main": "index.js",
+  "author": "Dora",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dororo019/healthcare-blockchain.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "healthcare",
+    "IPFS",
+    "IDS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dororo019/healthcare-blockchain/issues"
+  },
+  "homepage": "https://github.com/Dororo019/healthcare-blockchain#readme"
+}
